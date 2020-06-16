@@ -1,0 +1,1 @@
+# **TypescriptのREADMEです**
